@@ -70,6 +70,9 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="registration">Registration</h2>
+The workshop cost is $25, payable by credit card or Washington State University IRI. Registration will open in mid-March.
+<h2 id="general">General Information</h2>
 
 <h2 id="general">General Information</h2>
 
